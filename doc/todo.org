@@ -1,0 +1,8 @@
+
+* TODO Wrap existing source code to call w/in Python
+
+* TODO Collect ChIP-Seq data (may require own repository...)
+
+* Generate 3D rod structures from stacking parameters
+
+* Do ML of sequence + structural features against ChIP-Seq read density
